@@ -1,0 +1,18 @@
+* mode Editor will To do
+
+** TODO Service for file
+   SCHEDULED: <2016-10-22 周六>
+build a Service for model image and video; this serve for editor data service store, and publish.
+this serve is build by Nodejs and express and monagoDB; file data push to service in post mothed,
+because this data is not text data, so in monagoDB store this data use file Path. and so on;
+when client get data service return this data Url and name; the client will get data by url.
+
+
+** TODO libaray dialog
+get service file list and show it for users,that can select and choice;
+
+** TODO add object function
+from service object add to project scene
+
+** TODO 测试
+测试代码的正确性,添加mocha测试

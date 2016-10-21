@@ -1,0 +1,13 @@
+* mode Editor will To do
+
+** TODO Service for file
+build a Service for model image and video; this serve for editor data service store, and publish
+
+** TODO libaray dialog
+get service file list and show it for users,that can select and choice;
+
+** TODO add object function
+from service object add to project scene
+
+** TODO 测试
+测试代码的正确性,添加mocha测试
