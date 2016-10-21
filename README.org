@@ -1,0 +1,2 @@
+* emacs config
+** this config is for my emacs config synchronizaion
